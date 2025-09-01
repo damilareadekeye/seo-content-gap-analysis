@@ -4,6 +4,8 @@
 
 An advanced Python-based competitive intelligence system that identifies strategic content opportunities by analyzing keyword rankings across multiple domains. This tool leverages the DataForSEO API to perform deep comparative analysis, extracting critical SEO metrics and generating actionable insights through intuitive matrices and detailed reports.
 
+📖 **For full comprehensive project details and live demo, visit: [damilareadekeye.com/works/software/content-gap-analysis](https://damilareadekeye.com/works/software/content-gap-analysis)**
+
 ## ✨ Key Features
 
 ### **Comprehensive Keyword Analysis**
